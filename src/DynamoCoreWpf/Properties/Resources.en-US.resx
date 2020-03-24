@@ -2228,4 +2228,7 @@ Uninstall the following packages: {0}?</value>
     <value>New from Template...</value>
     <comment>FIle menu | New | New from Template</comment>
   </data>
+  <data name="DynamoViewSettingsMenuShowCodeBlockNodeLineNumber" xml:space="preserve">
+    <value>Show CodeBlockNode Line Numbers</value>
+  </data>
 </root>
